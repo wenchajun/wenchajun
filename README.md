@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning kubernetes ，serverless
 
 ### Welcome!/欢迎!/
-- 🌱 I’m currently learning kubernetes，serverless
 - Contact me at/联系方式/ 995729579@qq.com
 
 #### Hobbies/爱好
