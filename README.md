@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-巫师三-yellow)(昆特牌)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-奥德赛-yellow)&ensp;&ensp;&ensp;&ensp;
 
-- Daily Life/日常生活/повседневная жизнь<br>
+- Daily Life/日常生活<br>
 ![](https://img.shields.io/badge/历史-brightgreen)
 ![](https://img.shields.io/badge/政治-brightgreen)
 ![](https://img.shields.io/badge/asoul-brightgreen)
