@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning kubernetes ，serverless
 
 ### Welcome!/欢迎!/
+- 💬 Ask me about ..
 - Contact me at/联系方式/ 995729579@qq.com
 
 #### Hobbies/爱好
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Kubernetes-blue)
 ![](https://img.shields.io/badge/-serverless-blue)
 - Entertainment/娱乐<br>
+ ⚡ Fun fact: ...
 ![](https://img.shields.io/badge/-LOLM-yellow)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-巫师三-yellow)(昆特牌)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-奥德赛-yellow)&ensp;&ensp;&ensp;&ensp;
