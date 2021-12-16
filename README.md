@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Golang-blue) 
 ![](https://img.shields.io/badge/-Kubernetes-blue)
 ![](https://img.shields.io/badge/-serverless-blue)
-- Entertainment/娱乐<br>
- ⚡ Fun fact: ...
+- Entertainment/娱乐⚡ Fun fact: ...<br> 
 ![](https://img.shields.io/badge/-LOLM-yellow)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-巫师三-yellow)(昆特牌)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-奥德赛-yellow)&ensp;&ensp;&ensp;&ensp;
