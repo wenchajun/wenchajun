@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning kubernetes ，serverless
+- 🌱 I’m currently learning kubernetes ，serverless , and other interseting things
 
 ### Welcome!/欢迎!/
 - 💬 Ask me about ..
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-LOLM-yellow)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-巫师三-yellow)(昆特牌)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-奥德赛-yellow)&ensp;&ensp;&ensp;&ensp;
+
 
 - Daily Life/日常生活<br>
 ![](https://img.shields.io/badge/历史-brightgreen)
