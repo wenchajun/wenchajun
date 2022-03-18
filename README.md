@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Entertainment/娱乐⚡ Fun fact: ...<br> 
 ![](https://img.shields.io/badge/-LOLM-yellow)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-宝可梦阿尔宙斯-yellow)&ensp;&ensp;&ensp;&ensp;
-![](https://img.shields.io/badge/-奥德赛-yellow)&ensp;&ensp;&ensp;&ensp;
+![](https://img.shields.io/badge/-光遇-yellow)&ensp;&ensp;&ensp;&ensp;
 
 
 - Daily Life/日常生活<br>
